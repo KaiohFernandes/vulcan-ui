@@ -5,6 +5,7 @@ import account from './icons/account'
 import accountGroup from './icons/accountGroup'
 import arrowDown from './icons/arrowDown'
 import autoFix from './icons/autoFix'
+import bugFix from './icons/bugFix'
 import calendar from './icons/calendar'
 import checkCircleOutline from './icons/checkCircleOutline'
 import chevronUp from './icons/chevronUp'
@@ -32,6 +33,7 @@ const icons = {
     accountGroup,
     arrowDown,
     autoFix,
+    bugFix,
     calendar,
     checkCircleOutline,
     chevronUp,

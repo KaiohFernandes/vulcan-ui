@@ -13,6 +13,7 @@ import useMobile from './Hooks/useMobile'
 import usePortal from './Hooks/usePortal'
 import useScroll from './Hooks/useScroll'
 import Icon from './Icon/Icon'
+import List from './List/List'
 import Menu from './Menu/Menu'
 import useMenu from './Menu/useMenu'
 import NavigationDrawer from './NavigationDrawer/NavigationDrawer'
@@ -41,6 +42,7 @@ export {
     useDialog,
     Form,
     Icon,
+    List,
     Menu,
     useMenu,
     NavigationDrawer,
